@@ -1,4 +1,4 @@
-.navbar,.container{
+.container{
     margin-bottom: 100px;
 }
 .slider-bg{
@@ -34,10 +34,15 @@
     background-image: linear-gradient(to left, #ffd310 0%, #ff9844 100%);
 }
 .cat2{
-    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%)
-;
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
 }
 .cat3{
     
     background-image: linear-gradient(to left, blue 0%, #7474e9 100%);
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
 }
